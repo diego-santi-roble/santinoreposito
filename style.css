@@ -1,0 +1,142 @@
+body { }
+
+.navbar { 
+    padding: 0%;
+    display: flex;
+    align-items: center;
+    background-color: grey;
+    color: #fff;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+
+.logo a {
+    margin-left: 20px;
+    color: #fff;
+    font-size: 30px;
+}
+
+.nav-links {
+    margin-left: 650px;
+     display: inline-flex;
+     list-style-type: none;}
+
+.nav-links li {
+    margin-right: 20px;
+
+}
+
+.nav-links li a {
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+button {margin-left: 10px; 
+     border-radius: 20px;
+    background-color: #f6f7f700;
+}
+
+.side-nav { 
+    display: inline-block;
+    text-align: center;
+    float: inline-end;
+    height: 300px;
+    width: 450px;
+    margin-top: 5px;
+    
+}
+
+.main {border-radius: 20px;
+    padding: 5px;
+    margin-right: 5px;
+    margin-top: 5px;
+     display:inline-block;
+    height: 700px;
+    width: 700px;
+   
+}
+
+.fotomi {
+    width: 300px;
+    height: 300px;
+    border-radius: 300px;
+    border-style: groove;
+    border-color:white;
+    background-size: auto;
+    margin: 50px; 
+}
+.fondo { 
+         height: 200px; 
+         background-color:orange;
+         border-radius: 20px;
+}
+        
+.ciudas { 
+        font-size: 23px;
+        text-align: center;
+        width: 200px;
+        height: 50px;
+        position: relative;
+        margin-top:   170px;
+        margin-left: 110px;
+}
+p  {    
+        text-align: justify;   
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        margin-top: 40px;
+        margin-left: 50px;
+        margin-right: 50px;
+}
+ .conexiones {
+             text-align: center;    
+             margin-top: -400px;
+              float: inline-end;
+              height: 700px;
+              width: 450px;
+}
+
+
+.foto { width: 50px;
+    height: 50px;
+    border-radius: 100px;
+    border-style: groove;
+    border-color:white;
+    background-size: auto;
+    margin: 5px; 
+}
+
+.soli {border-radius: 20px;
+    align-items: center;
+     display: flex;
+    text-align: center;
+    margin-right: 20px;
+      margin-left: 20px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    background-color: azure
+}
+ .soli2{border-radius: 20px;
+    align-items: center;
+    display: flex;
+    text-align: center;
+    margin-right: 20px;
+      margin-left: 20px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    background-color: azure }
+    
+.btnsi{ 
+    border-color: green ;
+    height: 30px;
+    width: 30px;
+    margin-left: 50px;
+}
+
+.btnno{ border-color: red;
+    height: 30px;
+    width: 30px;
+    margin-left: 50px;
+}
+.educacion {padding: top 30px; ;
+    padding-left: 30px;
+    
+}
